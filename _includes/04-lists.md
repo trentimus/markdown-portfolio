@@ -1,3 +1,4 @@
+*Favorite things
 *favorite places
   *tokyo
   *los angeles
