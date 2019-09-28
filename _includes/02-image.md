@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Buh](https://blueridgevets.com/wp-content/uploads/2016/07/doggy-day-care.jpg)
